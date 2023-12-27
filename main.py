@@ -5,3 +5,5 @@ a = int(input("1st nunmber: "))
 b = int(input("2nd number: "))
 addition(a, b)
 substraction(a, b)
+
+print("Good luck.")
